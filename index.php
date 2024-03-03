@@ -6,13 +6,12 @@
     <title>PD Urmince</title>
 </head>
 <body>
-    <h1>PD Urmince</h1>
     <div class= "menu">
-        <div>
-            <a href="index.php">Domov</a>
-        </div>
-        <div>
-            <a href="index.php?stranka=kontakt">Kontakt</a>
+        <ul>
+            <li><a href="index.php">Domov</a></li>
+            <li><a href="about.php">O nás</a></li>
+            <li><a href="contact.php">Kontakt</a></li>
+        </ul>
     </div>
 </body>
 </html>
