@@ -1,0 +1,14 @@
+
+.menu {
+    width: 100%;
+    text-align: center; 
+    display: flex;
+}
+
+.item {
+    display: inline-block;
+    width: 80%;
+    height: 30px;
+    background-color: #ccc;
+    margin: 10px; 
+}
