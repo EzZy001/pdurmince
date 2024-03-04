@@ -7,6 +7,11 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <?php
+    $name = "Test";
+    echo "Hello, $name";
+    ?>
+
     <div class= "menu">
         <div class="item"><a href="index.php">Domov</a></div>
         <div class="item"><a href="about.php">O nás</a></div>
