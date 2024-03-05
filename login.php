@@ -18,7 +18,9 @@
     </div>
 
 
-
+    <?php
+        include("login_script.php");
+    ?>
 </body>
 
 <?php
