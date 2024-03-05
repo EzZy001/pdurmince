@@ -6,6 +6,9 @@
     <title>PD Urmince</title>
     <link rel="stylesheet" href="style.css">
 </head>
+<?php 
+    include "parts/header.php";
+?>
 <body>
     
 

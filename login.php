@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="styles/login_box.css">
 </head>
+<?php 
+    include "parts/header.php";
+?>
 <body>
     
 
