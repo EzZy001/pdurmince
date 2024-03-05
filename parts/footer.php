@@ -3,7 +3,7 @@
 
             <div class="main">
                 <?php  
-                    echo "Poľnohospodárske družstvo Urmince";
+                    echo "Poľnohospodárske družstvo Zlatý klas Urmince";
                     echo "<br>";
                     echo "<a href='osobne_udaje.php'>Zásady ochrany osobných údajov</a>";
                     echo "<br>";
