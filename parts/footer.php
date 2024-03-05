@@ -1,16 +1,13 @@
 <footer>
     <link rel="stylesheet" href="styles/footer.css">
-    <div class="main">
-        <div>
-            <div>
+
+            <div class="main">
                 <?php  
                     echo "Poľnohospodárske družstvo Urmince";
+                    echo "<br>";
+                    echo "<a href='osobne_udaje.php'>Zásady ochrany osobných údajov</a>";
                 ?>
             </div>
-            <div>
-                <?php
-                    echo "<img src='img/wheat.png' class='obrazok'";
-                ?>
-            </div>
-    </div>
+
+
 </footer>
