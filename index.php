@@ -12,12 +12,10 @@
     echo "Hello, $name";
     ?>
 
-    <div class= "menu">
-        <div class="item"><a href="index.php">Domov</a></div>
-        <div class="item"><a href="about.php">O nás</a></div>
-        <div class="item"><a href="contact.php">Kontakt</a>
-        <div class="item"><a href="mechanizacia.php">Mechanizácia</a>
-        <div class="item"><a href="vyroba.php">Rastlinná výroba</a></div>
-    </div>
+    <h1>AHOJ</h1>
 </body>
+
+<?php
+    include("parts/footer.php");
+?>
 </html>
