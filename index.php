@@ -7,8 +7,9 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
-
+    <div class="PDURMINCE">
+        <img src="img/text1.png" alt="" class = >
+    </div>
     <div class= "menu">
         <div class="menu_item"><a href="index.php">Domov</a></div>
         <div class="menu_item"><a href="about.php">O nás</a></div>
