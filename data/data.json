@@ -1,0 +1,15 @@
+{
+      "banner1.jpg": {
+          "name": "edu",
+          "url":"https://edu.ukf.sk/my/"
+      },
+      "banner2.jpg":{
+          "name": "webmail",
+          "url":"https://studentmail.ukf.sk/webmail/"
+       },
+      "banner3.jpg":{
+          "name": "ais",
+          "url":"https://ais2.ukf.sk/ais/start.do"
+       }
+   
+}

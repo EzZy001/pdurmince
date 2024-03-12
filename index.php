@@ -11,6 +11,20 @@
 ?>
 
 <body>
+
+<?php 
+    $json_data = file_get_contents("data/data.json");
+    $data = json_decode($json_data, true);
+    
+    foreach ($data as $banner => $details) {
+        $url = $details['url'];
+        $redirectUrl = $details['url'];
+        echo '<a href="' . $redirectUrl . '" onclick="redirectToUrl(\'' . $redirectUrl . '\')">';
+        echo '<img src="' . $url . '">';
+        echo '</a>';
+    }
+?>
+
 <?php 
     include "parts/menu.php";
 ?>
